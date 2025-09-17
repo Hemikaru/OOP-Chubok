@@ -1,0 +1,14 @@
+C:\Users\Hemik\Desktop\OOP CHUBOCK\lab1\bin\Debug\net9.0\OOP_CHUBOCK.exe
+C:\Users\Hemik\Desktop\OOP CHUBOCK\lab1\bin\Debug\net9.0\OOP_CHUBOCK.deps.json
+C:\Users\Hemik\Desktop\OOP CHUBOCK\lab1\bin\Debug\net9.0\OOP_CHUBOCK.runtimeconfig.json
+C:\Users\Hemik\Desktop\OOP CHUBOCK\lab1\bin\Debug\net9.0\OOP_CHUBOCK.dll
+C:\Users\Hemik\Desktop\OOP CHUBOCK\lab1\bin\Debug\net9.0\OOP_CHUBOCK.pdb
+C:\Users\Hemik\Desktop\OOP CHUBOCK\lab1\obj\Debug\net9.0\OOP_CHUBOCK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hemik\Desktop\OOP CHUBOCK\lab1\obj\Debug\net9.0\OOP_CHUBOCK.AssemblyInfoInputs.cache
+C:\Users\Hemik\Desktop\OOP CHUBOCK\lab1\obj\Debug\net9.0\OOP_CHUBOCK.AssemblyInfo.cs
+C:\Users\Hemik\Desktop\OOP CHUBOCK\lab1\obj\Debug\net9.0\OOP_CHUBOCK.csproj.CoreCompileInputs.cache
+C:\Users\Hemik\Desktop\OOP CHUBOCK\lab1\obj\Debug\net9.0\OOP_CHUBOCK.dll
+C:\Users\Hemik\Desktop\OOP CHUBOCK\lab1\obj\Debug\net9.0\refint\OOP_CHUBOCK.dll
+C:\Users\Hemik\Desktop\OOP CHUBOCK\lab1\obj\Debug\net9.0\OOP_CHUBOCK.pdb
+C:\Users\Hemik\Desktop\OOP CHUBOCK\lab1\obj\Debug\net9.0\OOP_CHUBOCK.genruntimeconfig.cache
+C:\Users\Hemik\Desktop\OOP CHUBOCK\lab1\obj\Debug\net9.0\ref\OOP_CHUBOCK.dll
