@@ -1,0 +1,14 @@
+C:\Users\Hemik\Desktop\lab3v6\bin\Debug\net9.0\lab3v6.exe
+C:\Users\Hemik\Desktop\lab3v6\bin\Debug\net9.0\lab3v6.deps.json
+C:\Users\Hemik\Desktop\lab3v6\bin\Debug\net9.0\lab3v6.runtimeconfig.json
+C:\Users\Hemik\Desktop\lab3v6\bin\Debug\net9.0\lab3v6.dll
+C:\Users\Hemik\Desktop\lab3v6\bin\Debug\net9.0\lab3v6.pdb
+C:\Users\Hemik\Desktop\lab3v6\obj\Debug\net9.0\lab3v6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hemik\Desktop\lab3v6\obj\Debug\net9.0\lab3v6.AssemblyInfoInputs.cache
+C:\Users\Hemik\Desktop\lab3v6\obj\Debug\net9.0\lab3v6.AssemblyInfo.cs
+C:\Users\Hemik\Desktop\lab3v6\obj\Debug\net9.0\lab3v6.csproj.CoreCompileInputs.cache
+C:\Users\Hemik\Desktop\lab3v6\obj\Debug\net9.0\lab3v6.dll
+C:\Users\Hemik\Desktop\lab3v6\obj\Debug\net9.0\refint\lab3v6.dll
+C:\Users\Hemik\Desktop\lab3v6\obj\Debug\net9.0\lab3v6.pdb
+C:\Users\Hemik\Desktop\lab3v6\obj\Debug\net9.0\lab3v6.genruntimeconfig.cache
+C:\Users\Hemik\Desktop\lab3v6\obj\Debug\net9.0\ref\lab3v6.dll
